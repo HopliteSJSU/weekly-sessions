@@ -1,7 +1,7 @@
 /**
  * Question: 88. Merge Sorted Array
  * Link: https://leetcode.com/problems/merge-sorted-array/
- * Hoplite Session: 09/12/2019
+ * Hoplite Session: 09/05/2019
  * 
  * Time Complexity: O(n + m)
  * Space Complexity: O(1)
