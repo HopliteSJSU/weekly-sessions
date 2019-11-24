@@ -1,7 +1,7 @@
 /**
  * Question: 399. Evaluate Division
  * Link: https://leetcode.com/problems/evaluate-division/ 
- * Hoplite Session: 11/15/2019
+ * Hoplite Session: 11/14/2019
  * 
  * Time Complexity: O(K * E)
  * Space Complexity: O(E)

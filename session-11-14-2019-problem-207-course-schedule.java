@@ -1,7 +1,7 @@
 /**
  * Question: 207. Course Schedule 
  * Link: https://leetcode.com/problems/course-schedule/ 
- * Hoplite Session: 11/15/2019
+ * Hoplite Session: 11/14/2019
  * 
  * Time Complexity: O(V * V)
  * Space Complexity: O(E + V)
